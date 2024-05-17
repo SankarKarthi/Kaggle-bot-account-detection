@@ -1,5 +1,8 @@
-###**Kaggle Bot Detection**
+**Kaggle Bot Detection**
+
+
 **Overview**
+
 The Kaggle Bot Detection project aims to classify whether a user is a bot or not based on various features extracted from user data. This project uses a neural network model built with Keras and TensorFlow, and a web interface developed using Streamlit to make predictions based on user inputs.
 
 **Features**
